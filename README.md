@@ -29,16 +29,14 @@ Analysis of the success rate of theater categories show that plays enjoyed a hig
 
 Reducing the dataset to US plays, the following was noted:
 
+ - The average campaign period averaged 31 days
+ - Successful US plays reached or exceeded their funding goal
  - The most successful Kickstarter campaigns were launched in May, with tapering success rates as the year progressed
 
 ![Outcomes Based On Launch Date](https://user-images.githubusercontent.com/87709841/134752884-8d02357b-2c92-4b63-9680-710ebd50a415.png)
 
-
-
- - Successful US plays reached or exceeded their funding goal
- - The average campaign period averaged 31 days
  - Failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns
- - 
+ - The mean and median pledged amounts are much lower than the successful pledges
 
 
 
