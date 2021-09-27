@@ -1,11 +1,32 @@
-# An Analysis of Kickstarter Campaigns
-Assignment: performing analysis on Kickstarter data to uncover trends
+# Kickstarting with Excel
 
-## Crowdfunding Success
+## Overview of Project
+Performing analysis on Kickstarter data to uncover trends
+
+### Purpose
 This project is to support up-and-coming playwrite Louise complete a crowdfunding campaign for her play, *Fever.* The play is estimated to cost $12,000. The object is to analyze data related to theater-related crowdfunding campaigns in order to identify trends and determine recommendations for optimal success.
 
+## Analysis and Challenges
+
+
+### Analysis of Outcomes Based on Launch Date
+
+
+### Challenges and Difficulties Encountered
+
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
+
 ## About the Data
-A dataset of crowdfunding campaigns was successfully retrieved from www.acrowdsourcingwebsite.com containing data from a variety of crowdsourced fundraisers, including those supporting theater-related campaigns, which was the main source for the analysis. Twenty one (21) countries were represented within the data.
+A dataset of crowdfunding campaigns was successfully retrieved containing data from a variety of crowdsourced fundraisers, including those supporting theater-related campaigns, which was the main source for the analysis. Twenty one (21) countries were represented within the data.
 
 The dataset contained 4114 campaigns across 9 parent categories, with theater-related campaigns representing approximately 33% of the full dataset (1393 campaigns). For the theater-related campaigns, the breakdown is as follows:
 
@@ -13,8 +34,6 @@ The dataset contained 4114 campaigns across 9 parent categories, with theater-re
  - Live campaigns: 24
  - Failed campaigns: 439
  - Canceled campaigns: 37
-
- ![ParentCategoryOutcomes](https://user-images.githubusercontent.com/87709841/134750851-0a703e22-b5bc-4633-a85c-1a99d650a3d5.png)
 
 The theater-related subcategories included plays, musicals and spaces (i.e. theater building projects). Plays represented approxiamtely 77% of the subcategory dataset at 1033 campaigns, with spaces having slightly more campaigns (187) than musicals (140).
 
